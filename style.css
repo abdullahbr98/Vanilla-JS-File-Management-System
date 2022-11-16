@@ -5,3 +5,13 @@
     padding-top: 20vh;
     text-align: center;
 }
+
+.headingButton{
+    border-width:0px !important; 
+    border-radius: 0 !important;
+}
+
+.modal-content{
+    height: 60vh !important;
+    width: 40vw !important;
+}
